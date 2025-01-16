@@ -25,7 +25,7 @@ const activityEntry = async (activity) => {
   // Optional: Add a delay between entries
 };
 
-activityEntry();
+activityEntry(Activities[0]);
 
 
 
